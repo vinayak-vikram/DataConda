@@ -3,6 +3,9 @@
 
 A python library for many things involving data
 
+## Download
+Download [dataconda.py](dataconda.py)
+
 ## Dependencies
 * bs4 (BeautifulSoup)
 * requests
@@ -11,7 +14,7 @@ A python library for many things involving data
 * flask
 * sqlite3
 
-## Install
+## Install/Use
 ### Linux
 Move dataconda.py to the project folder or move dataconda.py to /usr/lib/python3._your python version_
 
