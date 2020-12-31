@@ -13,7 +13,7 @@ A python library for many things involving data
 
 ## Install
 ### Linux
-Move dataconda.py to the project folder or move dataconda.py to /usr/lib/python 3._your python version_
+Move dataconda.py to the project folder or move dataconda.py to /usr/lib/python3._your python version_
 
 Command line:
 ```
