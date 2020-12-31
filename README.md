@@ -16,9 +16,9 @@ A python library for many things involving data
 Move dataconda.py to the project folder or move dataconda.py to /usr/lib/python 3._your python version_
 
 Command line:
-```bash
+```r
 dc@dataconda:~$ cd Downloads/
-dc@dataconda:~/Downloads$ sudo cp dataconda.py /usr/lib/python 3.6
+dc@dataconda:~/Downloads$ sudo cp dataconda.py /usr/lib/python3.6
 ```
 (I use python 3.6 but you can use python 3.5, 3.7, 3.8, or 3.9)
 
