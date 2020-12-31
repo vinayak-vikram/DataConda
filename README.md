@@ -20,7 +20,7 @@ Command line:
 dc@dataconda:~$ cd Downloads/
 dc@dataconda:~/Downloads$ sudo cp dataconda.py /usr/lib/python 3.6
 ```
-(I use python 3.6 but you can use python 3.5, 3.7, 3.8, or 3.9
+(I use python 3.6 but you can use python 3.5, 3.7, 3.8, or 3.9)
 
 ### Windows
 Move dataconda.py to the project folder
