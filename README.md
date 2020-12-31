@@ -20,3 +20,9 @@ Command line:
 dc@dataconda:~$ cd Downloads/
 dc@dataconda:~/Downloads$ sudo cp dataconda.py /usr/lib/python 3.6
 ```
+
+### Windows
+Move dataconda.py to the project folder
+
+### Mac
+Move dataconda.py to the project folder
