@@ -13,7 +13,7 @@ Its features include:
 """
 
 import sqlite3 as sql
-import psycopg2 as psy
+import requests
 import matplotlib.pyplot as mpl
 import matplotlib
 import tkinter as tk
