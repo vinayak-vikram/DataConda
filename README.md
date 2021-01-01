@@ -30,3 +30,7 @@ Move dataconda.py to the project folder
 
 ### Mac
 Move dataconda.py to the project folder
+
+## Submodules
+
+If you only want to use a single feature of DataConda, it is better to check the [submodules](submodules/README.md) which reduces dependencies
