@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-DataConda, developed by Vinayak Vikram, developer of EasyBreezy (http://easy-breezy.xyz) is a python library for data.
+DataConda (http://easy-breezy.xyz/DataConda / https://github.com/ploppy-pigeon/DataConda), developed by Vinayak Vikram, developer of EasyBreezy is a python library for data.
 
 Its features include:
     -   Tkinter Grahing widgets
@@ -152,7 +152,7 @@ class SQLite():
         Usually used for SELECT statements
         """
         self.output = self.cursor.execute(cmd).fetchall()
-        print(self.output)
+        return self.output
 
 class Mutable():
     """
