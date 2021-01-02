@@ -4,7 +4,9 @@
 A python library for many things involving data
 
 ## Download
-Download [dataconda.py](dataconda.py)
+Download [dataconda.zip](dataconda.zip)
+
+Unzip dataconda.zip in your project folder (this will make a file called dataconda.py)
 
 ## Dependencies
 * bs4 (BeautifulSoup)
