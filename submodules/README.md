@@ -13,6 +13,9 @@ Using DataConda submodules reduces dependencies, making it much easier to use pa
     * flask
     * bs4 (BeautifulSoup)
     * requests
+* [DataConda EasyWebServers](dataconda_easyweb.py)
+  * Dependencies
+    * flask
 * [DataConda Mutables](dataconda_mutable.py)
   * No dependencies
 * [DataConda Sqlite](dataconda_sqlite.py)
