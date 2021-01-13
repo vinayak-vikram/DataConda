@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-The WebServer component to module DataConda (http://easy-breezy.xyz/DataConda / https://github.com/ploppy-pigeon/DataConda) by Vinayak Vikram
+The EasyWebServer component to module DataConda (http://easy-breezy.xyz/DataConda / https://github.com/ploppy-pigeon/DataConda) by Vinayak Vikram
 """
 
 from flask import Flask
@@ -10,7 +10,7 @@ app = Flask(__name__)
 port = 1500
 host = 'localhost'
 
-class WebServer():
+class EasyWebServer():
     """
     Put and get data from IP address (param h (h defauts to 'localhost')) ports (param p (p defaults to 1500))
     """
