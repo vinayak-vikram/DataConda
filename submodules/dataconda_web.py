@@ -38,4 +38,4 @@ class WebServer():
     def get_data(self, where):
         data = requests.get(where)
         data = BeautifulSoup(data.text, 'html.parser')
-        return data.prettfy()
+        return data.prettify()
